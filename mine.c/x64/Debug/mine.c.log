@@ -1,0 +1,4 @@
+﻿  game.c
+D:\best\mine.c\mine.c\game.c(10,1): warning C4029: 声明的形参表不同于定义
+D:\best\mine.c\mine.c\game.c(22,1): warning C4029: 声明的形参表不同于定义
+  mine.c.vcxproj -> D:\best\mine.c\x64\Debug\mine.c.exe
